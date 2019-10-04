@@ -1,0 +1,20 @@
+{
+  "name": "issue-repro-i18next-1334",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "i524",
+  "license": "ISC",
+  "dependencies": {
+    "i18next": "^17.0.18",
+    "next": "^9.0.7",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  },
+  "devDependencies": {}
+}
